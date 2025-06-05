@@ -69,7 +69,7 @@ Built a desktop-based music player application with basic controls.
 ## 📚 Education
 
 **B.Tech in Information Technology**  
-Pimpri Chinchwad College of Engineering, Pune | 2023n– Present | CGPA: 8.8
+Pimpri Chinchwad College of Engineering, Pune | 2023 – Present | CGPA: 8.8
 
 Higher Secondary Education (HSC)
 Pratibhatai Pawar Junior College | 2021 – 2022 | 88%

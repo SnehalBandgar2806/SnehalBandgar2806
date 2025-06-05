@@ -12,16 +12,18 @@
 
 ---
 
-<img align="left" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" alt="Professional coding animation" width="300" />
+<img align="left" src="https://user-images.githubusercontent.com/74038190/249570803-02293768-9242-47e1-bf8f-d084ba0a2d1d.gif" alt="Professional coding animation" width="250" height="230" />
+
    
 
-### 👨‍💻 About Me
+   ### 👨‍💻 About Me
+      🎓 S.Y. B.Tech IT Student @ Pimpri Chinchwad College of Engineering,Pune
 
-🎓 S.Y. B.Tech IT Student @ Pimpri Chinchwad College of Engineering, Pune
+      💡 Passionate Full-Stack Developer specializing in Web and Mobile App Development with 
+      strong expertise in Python, Java and Flutter.
 
-💡 Passionate Full-Stack Developer specializing in Web and Mobile App Development with strong expertise in Python, Java, and Flutter.
-
-I enjoy building efficient, user-friendly applications using modern technologies like Node.js and MongoDB.
+      I enjoy building efficient, user-friendly applications using modern technologies like 
+      Node.js and MongoDB.
 
 
 

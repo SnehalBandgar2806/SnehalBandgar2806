@@ -49,7 +49,7 @@
 
 ---
 
-## 💼 Experience & Projects
+## 💼 Projects
 
 🔹 **Student Attendance Monitoring App** (Flutter)  
 Built an app to manage and track student attendance efficiently.
